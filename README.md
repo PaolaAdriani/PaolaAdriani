@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PaolaAdriani&theme=green-nur)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Paola+Adriani;I'm+22+years+old;I+am+from+Bel%C3%A9m%2CPA)](https://git.io/typing-svg)
 
 <br>
 <br>
