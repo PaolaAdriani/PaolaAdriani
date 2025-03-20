@@ -3,13 +3,14 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B3079E&width=435&lines=Hello%2C+my+name+is+Paola+Adriani;I'm+22+years+old;I+am+from+Bel%C3%A9m%2C+PA)](https://git.io/typing-svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PaolaAdriani&theme=green-nur)](https://git.io/streak-stats)
+
 <br>
 <br>
 
 <div align="center">
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PaolaAdriani&theme=violet-dark)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PaolaAdriani&theme=green-nur)](https://git.io/streak-stats)
 
 </div>
 
@@ -20,6 +21,7 @@
 
 <a href="mailto:cmp.1a.paolaadriani14@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/f536d8b7-5ae1-43d3-b637-b7e1ccfd099f">
+
 </a>
 
 
@@ -27,8 +29,22 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/1697336e-acf6-40b3-be1b-4962fd406963">
 </a>
 
-</di<div align="center" >
-   
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/PaolaAdriani?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=purple) 
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+</div>
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/612523b3-73f2-4e18-9d17-d3ca339e237d">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f2f825cb-483f-454e-9918-6dc4fe968e1a">
 
 </div>
