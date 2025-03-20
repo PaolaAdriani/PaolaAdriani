@@ -23,7 +23,7 @@
 </a>
 
 
-<a  href="https:///www.linkedin.com/in/paolaadriani/" target=_blank>
+<a  href="https://linkedin.com/in/paola-adriani/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/1697336e-acf6-40b3-be1b-4962fd406963">
 </a>
 
