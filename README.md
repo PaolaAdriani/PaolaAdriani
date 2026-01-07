@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PaolaAdriani&theme=green-nur)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paoladevcoder&theme=blueberry&locale=pt)](https://git.io/streak-stats)
 
 </div>
 
